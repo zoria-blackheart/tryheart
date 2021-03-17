@@ -1,44 +1,56 @@
 :Tryheart:  Welcome Tryhearts! :Tryheart: 
-Here's a reference guide to everything that you should know while raiding with our team.
-
-1. TEAM PROFILE
-
+Here's a reference guide to everything that you should know while doing 40-man raids with the team.
+.
+**1. TEAM PROFILE**
+.
 Tryhearts are a semi-hardcore raiding team that puts emphasis on teamwork and achieving goals together. We do our homework, come prepared, clear the raids while having some friendly banter, and then go on to enjoy other activities this game has to offer. Most of all, we do our best to avoid any and all drama, as to keep our raiding atmosphere light and enjoyable.
-
+.
 To ensure all members of the team are pulling their weight we might ask underperformers to step down from raiding with us, however our first instinct is always to try to include people, talk with them over the problems they might be experiencing and help them get better at playing WoW Classic. We believe that the main ingredient to improvement is the will to work for it.
-
-We raid two days a week, Wednesday and Sunday. Our official raid time is 19:00 till 23:00 server time. We require valid PvE talent specializations and the use of consumables. We encourage gathering of world buffs before the raids and we organize events which help with it.
-
-2. LOOT
-
-We're employing an open Loot Council approach. The council consists of five members. Two of them are the Raid Leader and Backup Raid Leader, while three are chosen from Council Volunteers on raid-by-raid basis by the Raid Leader. Council spots are divided between representatives of different roles to ensure diverse insight going into loot decisions. Council Volunteers have roughly equal amount of time serving on the council.
-
+.
+**2. SCHEDULE**
+.
+The raid time starts at 19 and finishes at 23. Signing up for a raid night means you're committing the entire 4 hours to the group activity we'll be carrying out on the given evening.
+We follow a flexible days schedule adding or subtracting raids depending on the current state of the game and the raiding team.
+.
+The driving principle here is that we want to clear content efficiently and limit the time investments this game can demand of us, but we're also not afraid to go above and beyond when we need to. While we often pair up raid instances on a single night to reduce the amount of raid nights, we also went all in and raided Naxxramas every single day on it's release week, thus securing our week one KT kill.
+.
+For our current raid days check the public signups channels.
+.
+**2. LOOT**
+.
+We're employing an open Loot Council approach. 
+.
+**Guiding principles of loot distribution**
+Loot council exists to ensure the raiding team gets the best return for their effort when loot distribution is considered. 
+The guiding principle could be summed up as: "items should serve the team as long as possible and to the fullest of their potential."
+.
+Effectively this means that items are primarily viewed as investments into better future raids and will be placed accordingly.
+The most prominent example of this line of thinking is funnelling gear to tanks at the beginning of a content phase.
+.
+However, the loot council also remains aware of the reward approach we as humans and players usually tend to associate with loot, and thus the council will strive to ensure that no member's contributions go unrewarded for a prolonged period of time.
+.
+The council isn't infallible. Should a mistake happen the team members are asked to speak up about it. Due to how the game works many of those mistakes cannot be taken back, but the council can learn from those situations and make sure no mistake happens twice.
+.
+**Composition of the council**
+The loot council consists of volunteers who want to perform the service of dealing with loot and loot-related issues. 
+.
 Every team member can volunteer for the council, given they fulfil the following criteria:
 1) have RCLootCouncil addon installed and know how to use it,
 2) be familiar with current gear of all team members,
-3) know the Tryhearts Loot Priority sheet and understand the reasoning that went into it:
+3) know the Tryhearts' Loot Priority sheet and understand the reasoning that went into it:
 https://docs.google.com/spreadsheets/d/1djFbzkwtlSZ-iPSEBU8Sqzb3rxr36-uLUBr7qre33AE/edit?usp=sharing
-4) keep up to date on current discussions in #tryhearts_loot_council,
-5) keep up to date with the spreadsheet aggregating raider data,
-6) know the two following BiS lists and understand the reasonings that went into them:
+4) keep up to date on current discussions in the #:pencil:-loot-discussion:bow_and_arrow: channel,
+5) know the two following BiS lists and understand the reasoning that went into them:
 https://docs.google.com/spreadsheets/d/10IV_3NEmZdhh8iQXrs2Ek77YyUJbjBMWO5UxIWLlZl0/htmlview?sle=true#gid=1246215761
 https://www.wowisclassic.com/en/best-in-slot/
-
-Council Volunteers are vetted by the team management, usually either by the Raid Leader or Backup Raid Leader.
-
-Council members have one vote each and assign items with a majority vote.
-In the absence of majority of votes on any single person the item is rolled between all players receiving at least one vote.
-
-Council members cannot abstain from voting, they have to vote.
-
-Council decisions are final and are not to be questioned during the raid. Loot talk during the raid is to be kept to a minimum, preferably none altogether.
-However, all loot council decisions can be discusses after the raid in the #tryhearts_loot_council channel.
-Should the #tryhearts_loot_council determine that a Terrible Mistake™️ has been made and loot was assigned in a way that doesn't benefit the team, steps are taken to prevent such case from reoccurring in the future.
-
-Example 1: There's 5 people on the council. 3 have voted for person A, 1 for person B and 1 for person C. Person A gets the item.
-Example 2: There's 5 people on the council. 2 have voted for person A, 2 for person B and 1 for person C. People A, B and C roll for the item.
-
-3. BUFFS AND DEBUFFS
+.
+To maintain transparency loot council members are required to explain any and all decisions that they receive questions on.
+Both questions and responses should be done through #:pencil:-loot-discussion:bow_and_arrow: channel.
+.
+Council volunteers are vetted by the Raiding Team Leader or a current member of the council delegated by the Leader.
+In absence of volunteers the Raiding Team Leader can draft team members into the council.
+.
+**3. BUFFS AND DEBUFFS**
 
 Buffing responsibility is divided amongst all team members, with members of a given class deciding between themselves who buffs which group with what buff.
 
@@ -48,14 +60,14 @@ PHYSICAL DPS
 1.     Sunder Armor
 2.     Faerie Fire
 3.     Curse of Recklessness
-4.     Gift of Arthas
+4.     Gift of Arthas or Hemorrhage
 5.     Hunter's Mark
 6.     Expose Weakness, Hunter T2 8/8
 MAGICAL DPS
 7.     Curse of Shadow
 8.     Curse of the Elements
 9.     Improved Shadow Bolt
-10.   Winter's Chill
+10.   Winter's Chill or Improved Scorch
 11.    Shadow Word: Pain (if not available then: Corruption)
 12.   Shadow Weaving (if not available then: Corruption)
 DEFENSIVE/UTILITY (can be omitted for Corruption on easy encounters)
